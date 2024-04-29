@@ -48,3 +48,11 @@ Dane aplikacji przechowywane są w następującej formie:
 </ul>
 
 ## Uruchamianie <a name="start"></a>
+
+Do uruchomienia aplikacji potrzebny jest zainstalowany node.js.
+
+W folderach client oraz server uruchomić polecenia:
+
+npm install
+
+npm run dev
