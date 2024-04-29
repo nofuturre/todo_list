@@ -43,6 +43,8 @@ Dane aplikacji przechowywane są w następującej formie:
 
 <ul>
     <li>React</li>
+    <li>HTML</li>
+    <li>CSS</li>
 </ul>
 
 ## Uruchamianie <a name="start"></a>
