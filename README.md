@@ -28,6 +28,12 @@ Dane aplikacji przechowywane są w następującej formie:
   <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/database_model.png">
 </div>
 
+Diagram sekwencji przedstawiający interakcję użytkownika z aplikacją:
+
+<div align="center">
+  <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/diagram_sekwencji.png">
+</div>
+
 ## Narzędzia i technologie <a name="nit"></a>
 
 ### Backend
