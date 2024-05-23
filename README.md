@@ -16,23 +16,41 @@
 
 Celam projektu jest stworzenie platformy, na której po zalogowaniu można utworzyć listę zadań do wykonania. Każde zadanie opatrzone jest datą, opisem oraz statusem wykonania.
 
-Przepływ sterowania w aplikacji przestawia poniższy diagram:
+<h4 align="center"> Przepływ sterowania w aplikacji </h4>
 
 <div align="center">
   <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/flow_chart.png">
 </div>
 
-Dane aplikacji przechowywane są w następującej formie:
+<h4 align="center"> Model bazy danych </h4>
 
 <div align="center">
   <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/database_model.png">
 </div>
 
-Diagram sekwencji przedstawiający interakcję użytkownika z aplikacją:
+<h4 align="center"> Diagram sekwencji przedstawiający interakcję użytkownika z aplikacją </h4>
 
 <div align="center">
   <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/diagram_sekwencji.png">
 </div>
+
+<h4 align="center"> Widoki poszczególnych składowych aplikacji </h4>
+
+<h5 align="center">Ekran logowania</h5>
+<div align="center">
+  <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/login.png">
+</div>
+
+<h5 align="center">Ekran rejestracji</h5>
+<div align="center">
+  <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/create_account.png">
+</div>
+
+<h5 align="center">Lista zadań</h5>
+<div align="center">
+  <img width="612" alt="image" src="https://github.com/nofuturre/todo_list/blob/main/assets/list_view.png">
+</div>
+
 
 ## Narzędzia i technologie <a name="nit"></a>
 
